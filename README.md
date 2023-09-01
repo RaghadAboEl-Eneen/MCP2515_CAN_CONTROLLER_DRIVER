@@ -1,5 +1,5 @@
-# Aquaphoton CAN Bootloader
-CAN bootloader using CAN controller MCP2515
+# MCP2515 CAN Controller Driver
+ 
 
 ## Table of contents
 **[Introduction](#introduction)**<br>
@@ -10,9 +10,8 @@ CAN bootloader using CAN controller MCP2515
 **[References](#references)**<br>
 **[Furthur improvments](#furthur-improvments)**<br>
 
-<br>
-<br>
-<br>
+
+---
 
 ## Introduction
 
